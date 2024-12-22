@@ -3,7 +3,7 @@
 # Market Admin Paneli DB Projesi
 
 ## Proje Hakkında
-Bu proje, Kastamonu Üniversitesi Bilgisayar Mühendisliği bölümü Veri Tabanı Yönetim Sistemleri dersi kapsamında geliştirilmiştir. Proje, market yöneticilerinin ürün, müşteri, sipariş ve tedarikçi bilgilerini kolayca yönetebileceği bir yönetim paneli uygulamasıdır.
+Bu proje, market yöneticilerinin ürün, müşteri, sipariş ve tedarikçi bilgilerini kolayca yönetebileceği bir yönetim paneli uygulamasıdır.
 
 MySQL veritabanında temel SQL sorguları ile INNER JOIN, LEFT JOIN, Saklı Prosedürler (Stored Procedures) ve Tetikleyiciler (Triggers) gibi ileri teknikler kullanılarak geliştirilmiş bir market yönetim sistemi sunar.
 
