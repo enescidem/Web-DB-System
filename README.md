@@ -1,6 +1,4 @@
-# Web-DB-System
- 
-# Market Admin Paneli DB Projesi
+# Market Admin Paneli DB Projesi (Web)
 
 ## Proje Hakkında
 Bu proje, market yöneticilerinin ürün, müşteri, sipariş ve tedarikçi bilgilerini kolayca yönetebileceği bir yönetim paneli uygulamasıdır.
