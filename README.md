@@ -1,5 +1,10 @@
 # Market Admin Paneli DB Projesi (Web)
 
+### Medium Links:
+English: https://medium.com/@enescidem/sentiment-anlaysis-41c1776a775c
+
+Turkish: https://medium.com/@enescidem/sentiment-analysis-duygu-analizi-39bb29c49dcd
+
 ## Proje Hakkında
 Bu proje, market yöneticilerinin ürün, müşteri, sipariş ve tedarikçi bilgilerini kolayca yönetebileceği bir yönetim paneli uygulamasıdır.
 
