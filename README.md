@@ -3,7 +3,7 @@
 ### Medium Links:
 English: https://medium.com/@enescidem/market-admin-panel-database-project-web-2fb0f42ed60c
 
-Turkish: https://medium.com/@enescidem/market-admin-paneli-db-projesi-web-c851190513c9
+Türkçe: https://medium.com/@enescidem/market-admin-paneli-db-projesi-web-c851190513c9
 
 ## Proje Hakkında
 Bu proje, market yöneticilerinin ürün, müşteri, sipariş ve tedarikçi bilgilerini kolayca yönetebileceği bir yönetim paneli uygulamasıdır.
